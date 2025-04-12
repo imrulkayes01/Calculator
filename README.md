@@ -26,7 +26,7 @@ This is a simple calculator application designed to perform basic arithmetic ope
 
 ## Live Preview
 
-You can access a live preview of the application here: [Live Preview URL](https://your-live-preview-url.com)
+You can access a live preview of the application here: [Live Preview URL](https://brilliant-youtiao-f54ea7.netlify.app/)
 
 ## Usage
 
